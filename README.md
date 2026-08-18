@@ -48,6 +48,6 @@ I build technology that makes legal and compliance work more efficient, and I he
 
 - 🌐 **Website**: [tenunitechhub.com](https://www.tenunitechhub.com)
 - 💼 **LinkedIn**: [Marcus Zhao](https://www.linkedin.com/in/marcus-zhao-b70053108)
-- ✉️ **Email**: marcuszhao86@gmail.com
+- ✉️ **Email**: marcus@tenunitechhub.com
 
 *Based in Singapore & London — serving clients across China, Southeast Asia, the UK and Europe.*
